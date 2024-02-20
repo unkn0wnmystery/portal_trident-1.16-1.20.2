@@ -33,6 +33,8 @@ https://github.com/unkn0wnmystery/portal_trident-1.13-1.13.2
 
 # Known issues
 Is technically free wool and glass pane (is a fact can't be fixed).
+## 1.16-1.1.6.5
+When crafting entangled ender pearl or portal trident, if shift clicked out of the crafting table, the knowledge book is not cleared from inventory.
 
 ## multiplayer specific
 If two players have the portal trident and the player not using the trident is in survival, they will be given another trident (may fix it).
